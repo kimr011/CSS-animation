@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../code/week 4"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "demos"
+	}
+}
